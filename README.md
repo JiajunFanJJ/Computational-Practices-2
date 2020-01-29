@@ -12,7 +12,9 @@ https://www.youtube.com/watch?v=5YJ1O3oKt_I
 
 Library of Plants
 
-Camera / Iamges  | Graphic Design
+Camera / Iamges  
+
+Graphic Design
 
 Color
 
