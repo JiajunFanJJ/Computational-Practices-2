@@ -7,8 +7,8 @@ recognize plants
 https://www.youtube.com/watch?v=5YJ1O3oKt_I
 
 /***
-| __Data__ | __Sports__ | __Fruits__ |
-|-------------|------------|------------|
+| __Data__                            | __Sports__ | __Fruits__ |
+|-------------------------------------|------------|------------|
 | Library of Plants                   | Soccer     | Apple      |
 | Camera / Iamges                     | Basketball | Orange     |
 | Graphic Design                      |
