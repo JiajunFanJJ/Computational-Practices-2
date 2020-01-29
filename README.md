@@ -11,51 +11,15 @@ https://www.youtube.com/watch?v=5YJ1O3oKt_I
 
 | __Data__                            | __Render__ | __Simulation__ | __Events__ |
 |-------------------------------------|------------|----------------|------------|
-| Library of Plants                   | Scan Iamge button / Camera button  |    | Touch camera button to take a photo |
-| Camera / Iamges                     | Five menus on the bottom |        | Touch iamge library to select a photo |
-| Graphic Design                      | Iamges  |  | Two figure to zoom in / out |
-| Color                               |  |  | Slide up and down |
+| Library of Plants                   | Scan Iamge button / Camera button |  | Touch camera button to take a photo |
+| Camera / Iamges                     | Five menus on the bottom          |  | Touch iamge library to select a photo |
+| Graphic Design                      | Iamges                            |  | Two figure to zoom in / out |
+| Color                               |                                   |  | Slide up and down |
 | Account information                 |
 | favorite / history Scan information |
 
 ***/
 
-*Data
-
-Library of Plants
-
-Camera / Iamges  
-
-Graphic Design
-
-Color
-
-Account information(favorite / history Scan information)
-
-
-
-*Render
-
-Scan Iamge button / Camera button
-
-Five menus on the bottom
-
-Iamges
-
-
-*Simulation
-
-
-
-*Events
-
-Touch camera button to take a photo
-
-Touch iamge library to select a photo
-
-Two figure to zoom in / out
-
-Slide up and down
 
 
 2.Takling Tom Cat
