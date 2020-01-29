@@ -6,14 +6,9 @@ recognize plants
 
 https://www.youtube.com/watch?v=5YJ1O3oKt_I
 
-/***
-| __Animals__ | __Sports__ | __Fruits__ |
-|-------------|------------|------------|
-| Cat         | Soccer     | Apple      |
-| Dog         | Basketball | Orange     |
-***/
 
 /***
+
 | __Data__                            | __Render__ | __Simulation__ | __Events__ |
 |-------------------------------------|------------|----------------|------------|
 | Library of Plants                   | Soccer     | Apple          |
@@ -22,6 +17,7 @@ https://www.youtube.com/watch?v=5YJ1O3oKt_I
 | Color                               |
 | Account information                 |
 | favorite / history Scan information |
+
 ***/
 
 *Data
