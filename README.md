@@ -15,8 +15,7 @@ https://www.youtube.com/watch?v=5YJ1O3oKt_I
 | Camera / Iamges                     | Five menus on the bottom          |  | Touch iamge library to select a photo |
 | Graphic Design                      | Iamges                            |  | Two figure to zoom in / out |
 | Color                               |                                   |  | Slide up and down |
-| Account information                 |
-| favorite / history Scan information |
+| Account information favorite / history Scan information |
 
 ***/
 
