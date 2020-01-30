@@ -7,7 +7,7 @@ recognize plants
 https://www.youtube.com/watch?v=5YJ1O3oKt_I
 
 
-/***
+***
 
 | __Data__                            | __Render__ | __Simulation__ | __Events__ |
 |-------------------------------------|------------|----------------|------------|
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=5YJ1O3oKt_I
 | Color                               |                                   |  | Slide up and down |
 | Account information favorite / history Scan information |
 
-***/
+***
 
 
 
@@ -26,7 +26,8 @@ https://www.youtube.com/watch?v=5YJ1O3oKt_I
 https://www.youtube.com/watch?v=6vMYT7w5nYk&list=PL_-e8udFoegPPmXvJZFp5uUs0xM8FgIQe&index=1
 
 
-/***
+
+***
 
 | __Data__                            | __Render__ | __Simulation__ | __Events__ |
 |-------------------------------------|------------|----------------|------------|
@@ -36,4 +37,4 @@ https://www.youtube.com/watch?v=6vMYT7w5nYk&list=PL_-e8udFoegPPmXvJZFp5uUs0xM8Fg
 | Color                               |                                   |  
 | What Cat's voice tone like          |
 
-***/
+***
