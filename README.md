@@ -1,6 +1,6 @@
 WEEK1
 
-**
+***
 
 1. Plant Snap
 
