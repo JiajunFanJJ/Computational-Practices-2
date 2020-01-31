@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=6vMYT7w5nYk&list=PL_-e8udFoegPPmXvJZFp5uUs0xM8Fg
 
 | __Data__                            | __Render__ | __Simulation__ | __Events__ |
 |-------------------------------------|------------|----------------|------------|
-| Models                              | Models (characters and backgrounds) | Body animation  | Touching different parts of the cats would show different animation (reacts) |
+| Models                              | Models (characters and backgrounds) | Body animation (breath)  | Touching different parts of the cats would show different animation (reacts) |
 | Five animations                     | Animations          |  | Record sound and replay the sound in "Cat" verison |
 | Sound for cat / Player (Micophone Input)  |                      |  
 | Color                               |                                   |  
