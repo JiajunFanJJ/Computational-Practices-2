@@ -38,5 +38,6 @@ https://www.youtube.com/watch?v=6vMYT7w5nYk&list=PL_-e8udFoegPPmXvJZFp5uUs0xM8Fg
 | Sound for cat / Player (Micophone Input)  |                      |  
 | Color                               |                                   |  
 | What Cat's voice tone like          |
+| Which parts / areas have reactions when player touches |
 
 ***
