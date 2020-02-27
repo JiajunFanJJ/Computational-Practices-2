@@ -29,33 +29,36 @@ var pages = {
     rightPage: "death"
   },
   Girl: {
-    text:"There is a girl sitting next to your seat. She looks so sad.",
+    text: "There is a girl sitting next to your seat. She looks so sad.",
     leftLabel: "'Are you OK?'",
     rightLabel: "Sit on your seat and watch your phone.",
     leftPage: "Girldeath",
     rightPage: "Boy"
   },
   Boy: {
-    text:"A boy is looking at your phone. He looks like really interested in your phone.",
+    text:
+      "A boy is looking at your phone. He looks like really interested in your phone.",
     leftLabel: "'Why you keep looking at my phone?'",
     rightLabel: "Ignore him and keep playing your phone",
     leftPage: "Boyphone",
     rightPage: "life"
   },
   Boyphone: {
-    text:"He said he wants to take photo with you.",
+    text: "He said he wants to take photo with you.",
     leftLabel: "Take a photo with him",
     rightLabel: "Ignore him and keep playing your phone",
     leftPage: "Boydeath",
     rightPage: "life"
   },
   Boydeath: {
-    text: "You take a photo with the boy, and you find out that there is only you in the photo. You slowly look back, you see a blood mouth.",
+    text:
+      "You take a photo with the boy, and you find out that there is only you in the photo. You slowly look back, you see a blood mouth.",
     EndLabel: "You dead",
     EndPage: "start"
   },
   Girldeath: {
-    text: "The girl starts crying, and the crying sound makes you crazy. You cannot stand that, then your head explode.",
+    text:
+      "The girl starts crying, and the crying sound makes you crazy. You cannot stand that, then your head explode.",
     EndLabel: "You dead",
     EndPage: "start"
   },
@@ -123,7 +126,7 @@ class App extends Component {
       );
     }
 
-    if (pageData.leftPage) {
+    if (pageData.midPage) {
       button4 = (
         <button onClick={() => this.goToPage(pageData.midPage)}>
           <p>{pageData.midLabel}</p>
@@ -133,7 +136,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <img src={pageData.image} alt="page-specific i.amge," />
+        <img src="https://lh3.googleusercontent.com/proxy/thmT4cn9BLGKOh9aKfhlIBPBIt0joTv8oImxZ8-yfvkYQVQYNedxqfn8Ak7_BD3DlJEkdDay9-3PmN7nwrf-MZnjENDvNxnFqV1yp_Nz" alt="Haha" width="300" height="250"/>
         <p>{pageData.text}</p>
         {button1}
         {button2}
